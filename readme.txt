@@ -1,5 +1,6 @@
 Welcome to my project
 
-Author: Peter Manasses
+
+Author: Peter Attila Manasses
 
 Twitter: @phawwty
