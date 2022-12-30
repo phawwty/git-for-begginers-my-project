@@ -1,5 +1,5 @@
 Welcome to my project
 
-Author: Peter
+Author: Peter Attila
 
 Twitter: @phawwty
