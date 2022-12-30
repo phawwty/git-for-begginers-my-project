@@ -1,4 +1,4 @@
-Welcome to my project
+Welcome to the "BELVEDERE" project!
 
 
 Author: Peter Attila Manasses
